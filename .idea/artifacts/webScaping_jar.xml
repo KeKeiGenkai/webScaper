@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="webScaping:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/webScaping_jar</output-path>
+    <root id="archive" name="webScaping.jar">
+      <element id="module-output" name="webScaping" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.18.1/jsoup-1.18.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
